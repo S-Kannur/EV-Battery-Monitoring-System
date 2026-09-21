@@ -34,7 +34,8 @@ Hardware Requirements
 * Power Supply: Variable DC Power Supply / 12V–25V Battery Pack
 
 
-
+### Circuit Schematic
+[Circuit Diagram](hardware/schematic.png)
 
 How to Run & Calibrate
 
