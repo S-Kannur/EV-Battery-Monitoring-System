@@ -35,7 +35,7 @@ Hardware Requirements
 
 
 ### Circuit Schematic
-[Circuit Diagram](hardware/schematic.png)
+[Circuit Diagram]hardware/Schematic.png
 
 How to Run & Calibrate
 
